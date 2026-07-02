@@ -1,0 +1,11 @@
+# Ignore local Python system caches
+__pycache__/
+*.pyc
+
+# Ignore runtime log files
+app_activity.log
+
+# Ignore dynamically generated project outputs
+data/
+reports/
+visuals/
